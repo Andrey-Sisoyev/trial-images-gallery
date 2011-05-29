@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact build-on-make="true" name="ImagesGallery:GWT">
-    <output-path>$PROJECT_DIR$/out/artifacts/ImagesGallery_GWT</output-path>
-    <root id="root">
-      <element id="gwt-compiler-output" facet="ImagesGallery/gwt/GWT" />
-    </root>
-  </artifact>
-</component>
