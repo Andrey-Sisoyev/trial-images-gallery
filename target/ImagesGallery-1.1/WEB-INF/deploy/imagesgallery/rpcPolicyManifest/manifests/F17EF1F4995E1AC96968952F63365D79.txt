@@ -1,2 +1,0 @@
-serviceClass: frontend.client.ImagesGalleryService
-path: 648531B10540C1B3C1CDFBDA1D7E92F8.gwt.rpc

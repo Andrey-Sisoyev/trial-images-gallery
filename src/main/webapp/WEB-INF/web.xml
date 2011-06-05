@@ -43,12 +43,12 @@
   	<url-pattern>/imagesgallery/ImagesGalleryService</url-pattern>
   </servlet-mapping>
   <servlet>
-  	<servlet-name>ImageGalleryOptionsService</servlet-name>
-  	<servlet-class>frontend.server.ImageGalleryOptionsServiceImpl</servlet-class>
+  	<servlet-name>ImagesGalleryOptionsService</servlet-name>
+  	<servlet-class>frontend.server.ImagesGalleryOptionsServiceImpl</servlet-class>
   </servlet>
   <servlet-mapping>
-  	<servlet-name>ImageGalleryOptionsService</servlet-name>
-  	<url-pattern>/imagesgallery/ImageGalleryOptionsService</url-pattern>
+  	<servlet-name>ImagesGalleryOptionsService</servlet-name>
+  	<url-pattern>/imagesgallery/ImagesGalleryOptionsService</url-pattern>
   </servlet-mapping>
 
 </web-app>
